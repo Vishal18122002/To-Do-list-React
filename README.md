@@ -6,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-      <code>
+
+## Commmand line code -- Do in your terminal
+<code>
       
       npx create-react-app my-app
       
@@ -16,9 +18,9 @@ In the project directory, you can run:
       
       npm start
       
-      <code/>
-
-### `npm start`
+<code/>
+after installing it and use our "src" files to modify it..
+###  Finally start the web app using `npm start`
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
